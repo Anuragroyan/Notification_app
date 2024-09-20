@@ -4,10 +4,10 @@
     "slug": "Notification_app",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/images/playstore.png",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/images/noti.jpg",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
